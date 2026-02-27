@@ -1,1 +1,1 @@
-# net9-cap-rabbitmq
+# Net 9 Cap Rabbitmq
